@@ -1,0 +1,67 @@
+document: PAPER-MPGG.md
+processed_at: '2025-09-19 11:14:51'
+model_used: deepseek/deepseek-chat-v3.1:free
+summary: This research introduces discrete Pen-PL Gaussian games as a model for non-cooperative
+  communication, particularly in contexts like spam detection where players use randomization
+  to evade detection. The study demonstrates that Pen-PL game strategies approximate
+  a Gaussian distribution, with optimal "smooth" curve signaling rules under quadratic
+  cost functions and multivariate Gaussian processes. It establishes that computing
+  socially optimal network placements is NP-hard for all P-PL-G distributions. Experimental
+  results show Pen-PL outperforms existing methods in sparse network scenarios, achieving
+  high accuracy even with minimal weights, and highlights applications in behavior
+  prediction, attack/avoidance path modeling, and optimization via linear and nonlinear
+  programming techniques.
+keywords:
+- Pen-PL Games
+- Gaussian distribution
+- non-cooperative communication
+- spam detection
+- malware detection
+- randomization
+- quadratic cost functions
+- multivariate Gaussian processes
+- first order auto-regressive models
+- smooth curve signaling rules
+- NP-hard
+- competitive facility location
+- bounded continuous arena
+- nearest neighbor rule
+- discrete Pen-PL game
+- finite graph
+- Mahalanobis distance
+- eigendecomposition
+- eigenvectors
+- eigenvalues
+- maximum entropy
+- Gaussian discriminant analysis
+- generative classifier
+- naive Bayes
+- nearest centroids classifier
+- simulation test
+- data distribution
+- sparsity
+- ReNet0
+- CzfXB-100
+- pruning ratios
+- Gaussian-based pruning
+- weight magnitude pruning
+- dense-to-sparse training
+- sparse-to-sparse training
+- ERK
+- Erdós-Rényi-Kernel
+- binary broadcasting
+- multi-antenna systems
+- molecular model method
+- non-covalent methods
+- Van der Waal forces
+- electrostatic forces
+- CTE mismatching
+- CNT deformation
+- deep learning architectures
+- learning strategy
+- logistic regression
+- game theory
+- zero-sum games
+- linear programming
+- nonlinear programming
+- resource allocation
