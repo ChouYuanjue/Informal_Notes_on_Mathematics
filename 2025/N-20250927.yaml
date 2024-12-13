@@ -1,0 +1,25 @@
+document: N-20250927.md
+processed_at: '2025-10-09 18:30:22'
+model_used: deepseek/deepseek-chat-v3.1
+summary: This document presents solutions to calculus problems focusing on limit evaluation,
+  asymptotic behavior, and function continuity. Key findings include determining parameters
+  for limit existence (e.g., a=-4, b=3 for (x²+ax+b)/(x-3) at x=3), establishing asymptotic
+  orders (e.g., tanx-sinx is 4th-order, cosmx-cosnx is 2nd-order), identifying principal
+  parts (e.g., 3x²/2 for 1-cos³x, 2x⁵ for √(1+2x⁵)-√(1-2x⁵)), and ensuring continuity
+  at breakpoints (e.g., a=-1, c=0 for piecewise function; defining f(0)=eᵃ for (1+ax)ᵃ
+  and f(0)=0 for e⁻¹/ˣ²). Conclusions confirm mathematical relationships through limit
+  analysis and parameter constraints.
+keywords:
+- limit
+- calculus
+- order of infinitesimal
+- continuity
+- trigonometric functions
+- Taylor expansion
+- asymptotic analysis
+- mathematical analysis
+- function continuity
+- limit calculation
+- infinitesimal comparison
+- main part analysis
+- piecewise function
