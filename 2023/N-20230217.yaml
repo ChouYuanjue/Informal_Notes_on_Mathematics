@@ -1,0 +1,37 @@
+document: N-20230217.md
+processed_at: '2025-09-19 11:07:36'
+model_used: deepseek/deepseek-chat-v3.1:free
+summary: 'This document provides informal notes on tensor mathematics, focusing on
+  tensor representations in Cartesian bases, reciprocal bases, and component calculations.
+  Key topics include: expressing tensors using dyadic bases in 2D and 3D; defining
+  reciprocal basis vectors via matrix inversion and Kronecker delta; distinguishing
+  roof (contravariant) and cellar (covariant) components; solving problems to compute
+  reciprocal vectors and components; and introducing the permutation tensor Eijk for
+  cross products, with properties based on Jacobian determinants and parity of index
+  permutations. The notes emphasize practical computations and illustrate tensor operations
+  in general bases.'
+keywords:
+- Tensor
+- Cartesian basis
+- Dyads
+- Kronecker delta
+- Reciprocal basis
+- Reciprocal base vectors
+- Roof components
+- Contravariant components
+- Cellar components
+- Covariant components
+- Jacobian
+- Permutation tensor
+- Cross product
+- Dot product
+- Basis vectors
+- Linear combination
+- Matrix representation
+- Gauss elimination
+- Vector space
+- Components
+- General basis
+- Determinant
+- Even permutation
+- Odd permutation
