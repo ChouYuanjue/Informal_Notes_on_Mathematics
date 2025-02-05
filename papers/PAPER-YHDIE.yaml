@@ -1,0 +1,52 @@
+document: PAPER-YHDIE.md
+processed_at: '2025-09-19 11:15:16'
+model_used: deepseek/deepseek-chat-v3.1:free
+summary: This paper investigates the mapping of the main functions and variations
+  of YH-DIE, focusing on its role in algebraic geometry and partial differential equations.
+  It explores manifold mappings, particularly warped products and representations
+  of hyperbolic spaces, and introduces bootstrap assumptions and energy estimates
+  for proving global stability of plane waves. The study includes commutative diagrams,
+  homotopy and isotopy in quasigroups, and properties of D-Θ bridges in Hodge theaters,
+  concluding with transformations of PDE variations. Key findings emphasize the continuity
+  and special mappings of YH-DIE on algebraic clusters, with applications to minimal
+  surfaces and geometric analysis.
+keywords:
+- YH-DIE
+- algebraic geometry
+- partial differential equations
+- Riemannian manifolds
+- minimal surface equation
+- hypersurfaces
+- prescribed mean curvature
+- constant mean curvature
+- CMC
+- Euclidean space
+- Liouville theorems
+- Yuheng Operator
+- YIHO
+- manifold mapping
+- ambient manifolds
+- hyperbolic space
+- warped products
+- geodesic graph
+- bootstrap assumptions
+- energy estimates
+- Sobolev embeddings
+- Klainerman-Sobolev inequalities
+- commutative diagrams
+- multiplicative subsets
+- inductive limit
+- quasigroups
+- homotopy
+- isotopy
+- autotopy
+- automorphism
+- D-Θ⁺ bridges
+- D-Θ⁻ bridges
+- Hodge theaters
+- torsors
+- poly-automorphisms
+- combinatorial structure
+- variations
+- PDEs
+- variable transformation
