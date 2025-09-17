@@ -1,0 +1,42 @@
+document: N-20250916.md
+processed_at: '2025-10-09 18:28:43'
+model_used: deepseek/deepseek-chat-v3.1
+summary: 'This document presents solutions to a calculus assignment containing mathematical
+  proofs and function analyses. Key proofs include: 1) Using mathematical induction
+  to demonstrate ∏(1+aᵢ) ≥ 1+∑aᵢ for positive numbers; 2) Establishing factorial inequalities
+  n! < ((n+1)/2)ⁿ and ((n+1)/n)ⁿ < 3ⁿ through mean inequalities and series expansions;
+  3) Proving trigonometric product identity cosα·cos2α···cos2ⁿα = sin2ⁿ⁺¹α/(2ⁿ⁺¹sinα)
+  via induction. Additional solutions cover: domain determination for y=arccos((1-x)/x)
+  as x∈[-2,4]; functional equations showing f(f(x))=x for f(x)=x/(x-1); composite
+  function decomposition; monotonic function inequalities f(f(x))<g(g(x)) when f(x)<g(x);
+  and periodicity analysis confirming 6π as the fundamental period for a tangent function
+  through domain preservation arguments. All proofs rigorously apply mathematical
+  induction, inequality techniques, and function properties.'
+keywords:
+- mathematical induction
+- calculus
+- mean inequality
+- product inequality
+- trigonometric functions
+- function composition
+- domain
+- periodicity
+- proof techniques
+- inequalities
+- binomial expansion
+- factorial
+- monotonic functions
+- inverse trigonometric functions
+- function iteration
+- periodic functions
+- mathematical proofs
+- summation
+- product notation
+- derivative
+- logarithmic functions
+- sine function
+- square root
+- function transformation
+- mathematical concepts
+- problem solving
+- homework exercises
