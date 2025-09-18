@@ -1,0 +1,37 @@
+# LaTeX generated files
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.bbl
+*.blg
+*.brf
+*.spl
+*.dvi
+
+filename.txt
+inm.pdf
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
