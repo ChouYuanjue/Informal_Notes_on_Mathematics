@@ -13,7 +13,7 @@ def is_file_committed(file_path):
     return result.returncode == 0
 
 def generate_random_date():
-    start_date = datetime(2023, 1, 1)
+    start_date = datetime(2022, 1, 1)
     end_date = datetime.now() - timedelta(days=1)
     days_diff = (end_date - start_date).days
     random_days = random.randint(0, days_diff)
