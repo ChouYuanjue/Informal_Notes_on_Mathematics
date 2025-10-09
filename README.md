@@ -19,6 +19,7 @@
 ### 生成的Markdown文件
 
   笔记文件通过项目[ChouYuanjue/PDF_Summary_Tool](https://github.com/ChouYuanjue/PDF_Summary_Tool)转化为Markdown格式的文件，命名格式为 `N-YYYYMMDD.md`。每份笔记对应两个markdown文件，分别采用不同的转换逻辑自动生成。其中，`md_full-page`文件夹存储的是通过整页传输方法处理的结果，`md_crop-region`文件夹存储的是通过分区方法处理的结果。
+  
   （为了节省开支，2025.9以后的笔记在存在源码的情况下，不再生成`crop-region`版的Markdown文件。）
 
 ### 生成的YAML文件
